@@ -6,5 +6,16 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'frontend';
+  title = 'Meu ecommerce';
+
+  soma(a,b){
+    return a + b;
+  }
+
+  mostraMensagem(){
+    alert("Você clicou no botão!");
+  }
 }
+
+
+
