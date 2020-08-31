@@ -1,8 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "mlonDR7qucRkDPImQxLqfH548IFz/sXgAko/urK9UKnTj5422kHNCLWn60q+ZgUaLDW6cnVFbwz6Bg6tI8G/cg==",
+  "dgSpecHash": "vcWU5aRNRP2w6V7KQVXC1o8l/10FsmH2qb3KTp6zkST9iTpKHNoVSlR8ToxcqAudsdZlsFuLBRiavhmtdJ71Lw==",
   "success": true,
   "projectFilePath": "C:\\PersonalProjects\\e-commerce\\backend\\backend.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\5.0.0-preview.1.20124.5\\microsoft.aspnetcore.nodeservices.5.0.0-preview.1.20124.5.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\5.0.0-preview.1.20124.5\\microsoft.aspnetcore.spaservices.5.0.0-preview.1.20124.5.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.0-preview.1.20124.5\\microsoft.aspnetcore.spaservices.extensions.5.0.0-preview.1.20124.5.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.1.20120.4\\microsoft.extensions.configuration.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-preview.1.20120.4\\microsoft.extensions.configuration.abstractions.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0-preview.1.20120.4\\microsoft.extensions.configuration.binder.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.1.20120.4\\microsoft.extensions.dependencyinjection.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.1.20120.4\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0-preview.1.20120.4\\microsoft.extensions.fileproviders.abstractions.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0-preview.1.20120.4\\microsoft.extensions.fileproviders.physical.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0-preview.1.20120.4\\microsoft.extensions.filesystemglobbing.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0-preview.1.20120.4\\microsoft.extensions.logging.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-preview.1.20120.4\\microsoft.extensions.logging.abstractions.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.logging.configuration\\5.0.0-preview.1.20120.4\\microsoft.extensions.logging.configuration.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.logging.console\\5.0.0-preview.1.20120.4\\microsoft.extensions.logging.console.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-preview.1.20120.4\\microsoft.extensions.options.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\5.0.0-preview.1.20120.4\\microsoft.extensions.options.configurationextensions.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.1.20120.4\\microsoft.extensions.primitives.5.0.0-preview.1.20120.4.nupkg.sha512",
+    "C:\\Users\\Bruno Virginio\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
