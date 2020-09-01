@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { ClientFormComponent } from './client-form/client-form.component';
+import { HeaderNavbarComponent } from './header-navbar/header-navbar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ClientFormComponent
+    ClientFormComponent,
+    HeaderNavbarComponent
   ],
   imports: [
     BrowserModule
