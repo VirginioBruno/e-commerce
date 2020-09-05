@@ -1,12 +1,17 @@
 <header>
-    <div>Logo</div>
-    <div>Search</div>
-    <div>Adress</div>
+    <div class="logo">LOGO</div>
+    <div class="input-group">
+        <fa-icon [icon]="faSearch"></fa-icon>
+        <input type="text" class="input-search" placeholder="Busque por item">
+    </div>
+    <div class="address-group">
+        <label>ENTREGAR EM</label><br>
+        <span class="adress"><fa-icon [icon]="faHome"></fa-icon> R. Europa, 330</span>
+    </div>
     <div>
         <ul>
-            <li>menu 1</li>
-            <li>menu 2</li>
-            <li>menu 3</li>
+            <li><fa-icon [icon]="faUser"></fa-icon> Perfil</li>
+            <li><fa-icon [icon]="faShoppingBag"></fa-icon> Sacola</li>
         </ul>
     </div>
 </header>

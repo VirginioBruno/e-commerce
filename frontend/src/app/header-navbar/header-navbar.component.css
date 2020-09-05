@@ -1,3 +1,63 @@
 header {
+    margin-bottom: 80px;
+    padding: 20px 10px 20px 10px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr;
+    grid-gap: 150px;
+    color: #fff;
+    background: #F48B2A;
+}
+
+header .logo img {
+    max-width: 100px;
+    max-height: 50px;
+    align-self: center;
+}
+
+header ul {
+    float: right;
+}
+
+header ul li {
     display: inline;
+    margin-right: 20px;
+}
+
+header ul li fa-icon{
+    margin-right: 10px;
+}
+
+header .input-search {
+    border: none;
+    background: #eee;
+    font-size: 18px;
+}
+
+header .input-group {
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+    height: 40px;
+    border-radius: 4px;
+    background: #eee;
+    color: #777;
+    border: 1px solid #ddd;
+    align-items: center;
+    padding: 0 10px 0 10px;
+}
+
+.input-group fa-icon {
+    background: #eee;
+    color: #777;
+    margin-right: 10px;
+}
+
+header .address-group {
+    display: block;
+    margin: 0;
+}
+
+header .address-group label {
+    font-size: 12px;    
+    color: #eee;
+    margin: 0;
 }
